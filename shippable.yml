@@ -19,9 +19,7 @@ script:
 notifications:
     email:
         recipients:
-            - tapan.pandita@gmail.com
-        on_success: change
-        on_failure: always
+            - manisha@shippable.com
 # whitelist
 branches:
     only:
